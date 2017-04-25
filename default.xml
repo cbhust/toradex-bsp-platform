@@ -22,7 +22,7 @@
   <project name="meta-linaro.git" path="layers/meta-linaro" remote="linaro" revision="7a497b40b8277dbe7954de2640d163850a0242a9" upstream="jethro"/>
   <project name="meta-lxde.git" path="layers/meta-lxde" remote="trdx" revision="d097882e3859220e9ce0c99250e22f5833233c6e" upstream="jethro"/>
   <project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="2ea8d7f54a061e902657c4f8ea1f7f7c25c6c4e1" upstream="jethro"/>
-  <project name="meta-qt5.git" path="layers/meta-qt5" remote="githq" revision="ea37a0bc987aa9484937ad68f762b4657c198617" upstream="jethro-next"/>
+  <project name="meta-qt5.git" path="layers/meta-qt5" remote="githq" revision="a8d4dafdfde812e403315d53b2a981d12bd49f04" upstream="jethro-next"/>
   <project name="meta-toradex-bsp-common.git" path="layers/meta-toradex-bsp-common" remote="trdx" revision="77b0c48863b6194628f2ff4c633469bb84f549c3" upstream="jethro"/>
   <project name="meta-toradex-demos.git" path="layers/meta-toradex-demos" remote="trdx" revision="aca039338c90e49cb0e10bfd214930fa2f69b4fe" upstream="jethro">
     <copyfile dest="export" src="buildconf/export"/>
